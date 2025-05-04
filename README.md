@@ -1,1 +1,1 @@
-# An-Effective-Optimization-Method-for-Machine-Learning-Based-on-ADAM
+This project was created as part of our Numerical Computing course. It focuses on optimizing gradient descent through research-based approaches. The project presents various tests and methods aimed at enhancing optimization and overcoming existing limitations. It includes Python code to validate the methodology and features plotted graphs to illustrate the results.
